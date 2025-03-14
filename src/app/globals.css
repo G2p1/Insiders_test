@@ -34,3 +34,9 @@ body {
   background-color: #FEFEFE;
   border-radius: 6px;
 }
+.draggable-tab {
+  cursor: grab;
+}
+.draggable-tab:active {
+  cursor: grabbing;
+}
